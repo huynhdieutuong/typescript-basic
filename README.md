@@ -27,3 +27,18 @@ https://www.typescriptlang.org/play   // doc for ts config
 
 "strict": true                        // auto true for all children strict
 ```
+
+# 5. Notes
+Comparison:
+- null == undefined => true
+- null == 0         => false
+- null >= 0         => true
+
+Naming convention: default use const
+- if constant: const NAME_CONSTANT
+- if variable not change: const nameVariable
+- if variable change:: let nameVariable
+
+Falsy: 0, null, undefined, '', false, NaN
+
+`!!`name => convert variable to `boolean`
