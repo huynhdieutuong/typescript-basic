@@ -18,9 +18,12 @@ tsc --init                  // create tsconfig.json file
 npm install -D jest ts-jest @types/jest
 npx ts-jest config:init     // create jest.config.js file
 ```
+Run jest: Ctrl + P => Jest: Start all runner
 
 # 4. Ts config to compile .js
 ```
 tsc                                   // compile all file to .js
 https://www.typescriptlang.org/play   // doc for ts config
+
+"strict": true                        // auto true for all children strict
 ```
