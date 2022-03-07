@@ -42,3 +42,6 @@ Naming convention: default use const
 Falsy: 0, null, undefined, '', false, NaN
 
 `!!`name => convert variable to `boolean`
+
+# 6. Types
+- Literal type & type assertion
