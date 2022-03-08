@@ -46,3 +46,4 @@ Falsy: 0, null, undefined, '', false, NaN
 # 6. Types
 - Literal type & type assertion
 - Type alias & interface
+- Notes for function
