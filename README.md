@@ -49,3 +49,4 @@ Falsy: 0, null, undefined, '', false, NaN
 - Notes for function
 - Enum type
 - Generics
+- Utility types
