@@ -47,3 +47,4 @@ Falsy: 0, null, undefined, '', false, NaN
 - Literal type & type assertion
 - Type alias & interface
 - Notes for function
+- Enum type
