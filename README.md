@@ -48,3 +48,4 @@ Falsy: 0, null, undefined, '', false, NaN
 - Type alias & interface
 - Notes for function
 - Enum type
+- Generics
